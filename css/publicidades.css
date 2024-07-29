@@ -1,0 +1,167 @@
+#publicidades{
+    width: 100%;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+}
+.cimapubli{
+    width: 100%;
+    height: 240px;
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-left: 100px;
+}
+.vesse{
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+
+.centropubli{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: chocolate; */
+}
+.quadropubli{
+    /* background-color: aqua; */
+    height: 340px;
+    width: 370px;
+    border-radius: 5px;
+    margin-left: 25px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 3px 3px 2px #dfdfdf;
+    overflow: hidden;
+}
+.quadropubli:hover{
+    box-shadow: 3px 5px 5px 3px #dfdfdf;
+}
+.imgpubli{
+    width: 100%;
+    height: 200px;
+    background-color: blueviolet;
+}
+.imgggg{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+.descpubli{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+.texpug{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.texpup{
+    font-size: 13px;
+}
+
+.baixopubli{
+    width: 100%;
+    height: 150px;
+    /* background-color: red; */
+    width: 100%;
+    height: 150px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 10px;
+}
+
+@media screen and (max-width: 414px) {
+    #publicidades{
+        width: 100%;
+        height: 1450px;
+        display: flex;
+        flex-direction: column;
+    }
+    .cimapubli{
+        width: 100%;
+        height: 240px;
+        /* background-color: blue; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 30px;
+    }
+    .vesse{
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    
+    
+    .centropubli{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+        /* background-color: chocolate; */
+    }
+    .quadropubli{
+        /* background-color: aqua; */
+        height: 340px;
+        width: 350px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 2px 3px 3px 2px #dfdfdf;
+        overflow: hidden;
+        margin: 0;
+    }
+    .quadropubli:hover{
+        box-shadow: 3px 5px 5px 3px #dfdfdf;
+    }
+    .imgpubli{
+        width: 100%;
+        height: 200px;
+        background-color: blueviolet;
+    }
+    .imgggg{
+        width: 100%;
+        height: 100%;
+        opacity: 0.5;
+    }
+    .descpubli{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 20px;
+    }
+    .texpug{
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .texpup{
+        font-size: 13px;
+    }
+    
+    .baixopubli{
+        width: 100%;
+        height: 170px;
+        /* background-color: red; */
+        width: 100%;
+        height: 150px;
+        /* background-color: aqua; */
+        display: flex;
+        justify-content: center;
+        align-items: start;
+        gap: 10px;
+        padding-top: 30px;
+    }
+}

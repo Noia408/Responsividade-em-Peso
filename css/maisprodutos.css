@@ -1,0 +1,411 @@
+.maisprodutos{
+    width: 100%;
+    height: 800px;
+    background-color: #f4e9f7;
+    display: flex;
+    flex-direction: column;
+}
+.cimammpro{
+    width: 100%;
+    height: 250px;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.trefv{
+    font-size: 55px;
+    margin-top: 25px;
+}
+.centommpro{
+    width: 100%;
+    height: 100%;
+    /* background-color: red; */
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    padding-top: 50px;
+}
+.quadum{
+    width: 280px;
+    height: 420px;
+    margin-right: 30px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    box-shadow: 6px 9px 5px 4px #eddff0;
+    border-radius: 4px;
+}
+.texxttxtxtx{
+    width: 100%;
+    height: 100px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.tectg{
+    font-size: 25px;
+    margin-bottom: 12px;
+}
+.etcdd{
+    color: #bfbfbf;
+    font-size: 13px;
+}
+.btnshooo{
+    width: 100%;
+    height: 100px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+.btnnshop{
+    padding: 12px 40px;
+    border: 1.5px solid #ca6fd6;
+    border-radius: 20px;
+    color: #ca6fd6;
+    font-size: 13px;
+    background-color: transparent;
+}
+.imgvtele{
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+    display: flex;
+    justify-content: start;
+    padding-top: 50px;
+}
+
+
+.quaddois{
+    width: 730px;
+    height: 420px;
+    background-color: #f4e9f7;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.parteee{
+    height: 195px;
+    width: 100%;
+    background-color: #f4e9f7;
+    display: flex;
+    justify-content: space-between;
+}
+.quadquatro{
+    height: 100%;
+    width: 352px;
+    background-color: white;
+    box-shadow: 6px 9px 5px 4px #eddff0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.tectfg{
+    height: 100%;
+    width: 155px;
+    /* background-color: aqua; */
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.youg{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.tommmma{
+    height: 100%;
+    width: 200px;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    justify-content: center;
+}
+
+.quadcinco{
+    height: 100%;
+    width: 352px;
+    background-color: white;
+    box-shadow: 6px 9px 5px 4px #eddff0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.toaaaa{
+    height: 100%;
+    width: 230px;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    padding-top: 50px;
+}
+
+
+.quadtres{
+    height: 195px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 6px 9px 5px 4px #eddff0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+}
+.parfedi{
+    height: 100%;
+    width: 450px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    flex-direction: column;
+}
+.tect{
+    font-size: 25px;
+    margin-bottom: 12px;
+
+}
+.partectt{
+    /* background-color: #ca6fd6; */
+    width: 100%;
+    height: 100px;
+    /* text-align: ; */
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.btnsss{
+    /* background-color: red; */
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+}
+.tcdd{
+    color: #bfbfbf;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+
+.imgpartt{
+    padding-top: 20px;
+    height: 100%;
+    width: 700px;
+    /* background-color: brown; */
+    overflow: hidden;
+}
+
+
+
+@media screen and (max-width: 414px) {
+    .maisprodutos{
+        width: 100%;
+        height: 1300px;
+        background-color: #f4e9f7;
+        display: flex;
+        flex-direction: column;
+    }
+    .cimammpro{
+        width: 100%;
+        height: 250px;
+        /* background-color: aqua; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .trefv{
+        font-size: 55px;
+        margin-top: 25px;
+    }
+    .centommpro{
+        width: 100%;
+        height: 100%;
+        /* background-color: red; */
+        display: flex;
+        flex-direction: column;
+        /* align-items: center; */
+        align-items: center;
+        padding-top: 20px;
+    }
+    .quadum{
+        width: 350px;
+        height: 420px;
+        /* margin-right: 30px; */
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        box-shadow: 6px 9px 5px 4px #eddff0;
+        border-radius: 4px;
+        margin-left: 25px;
+    }
+    .texxttxtxtx{
+        width: 100%;
+        height: 100px;
+        padding-left: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+    }
+    .tectg{
+        font-size: 25px;
+        margin-bottom: 12px;
+    }
+    .etcdd{
+        color: #bfbfbf;
+        font-size: 13px;
+    }
+    .btnshooo{
+        width: 100%;
+        height: 100px;
+        /* background-color: aqua; */
+        display: flex;
+        align-items: center;
+        padding-left: 20px;
+    }
+    .btnnshop{
+        padding: 12px 40px;
+        border: 1.5px solid #ca6fd6;
+        border-radius: 20px;
+        color: #ca6fd6;
+        font-size: 13px;
+        background-color: transparent;
+    }
+    .imgvtele{
+        width: 100%;
+        height: 250px;
+        overflow: hidden;
+        display: flex;
+        justify-content: start;
+        padding-top: 50px;
+    }
+    
+    
+    .quaddois{
+        width: 730px;
+        height: 100%;
+        background-color: #f4e9f7;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 20px;
+    }
+    .parteee{
+        height: 405px;
+        width: 100%;
+        background-color: #f4e9f7;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 15px;
+    }
+    .quadquatro{
+        height: 195px;
+        width: 352px;
+        background-color: white;
+        box-shadow: 6px 9px 5px 4px #eddff0;
+        border-radius: 4px;
+        display: flex;
+        justify-content: space-between;
+        overflow: hidden;
+    }
+    .tectfg{
+        height: 100%;
+        width: 155px;
+        /* background-color: aqua; */
+        padding-left: 20px;
+        display: flex;
+        flex-direction: column;
+        padding-top: 40px;
+    }
+    .youg{
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    .tommmma{
+        height: 100%;
+        width: 200px;
+        /* background-color: rebeccapurple; */
+        display: flex;
+        justify-content: center;
+    }
+    
+    .quadcinco{
+        height: 195px;
+        width: 352px;
+        background-color: white;
+        box-shadow: 6px 9px 5px 4px #eddff0;
+        border-radius: 4px;
+        display: flex;
+        justify-content: space-between;
+        overflow: hidden;
+    }
+    .toaaaa{
+        height: 100%;
+        width: 230px;
+        /* background-color: rebeccapurple; */
+        display: flex;
+        padding-top: 50px;
+    }
+    
+    
+    .quadtres{
+        height: 195px;
+        width: 350px;
+        background-color: white;
+        box-shadow: 6px 9px 5px 4px #eddff0;
+        border-radius: 4px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .parfedi{
+        height: 100%;
+        width: 450px;
+        /* background-color: aqua; */
+        display: flex;
+        justify-content: center;
+        padding-left: 20px;
+        flex-direction: column;
+    }
+    .tect{
+        font-size: 25px;
+        margin-bottom: 12px;
+    
+    }
+    .partectt{
+        /* background-color: #ca6fd6; */
+        width: 100%;
+        height: 100px;
+        /* text-align: ; */
+        display: flex;
+        flex-direction: column;
+        padding-top: 35px;
+    }
+    .btnsss{
+        /* background-color: red; */
+        width: 100%;
+        height: 100px;
+        padding-top: 40px;
+    }
+    .tcdd{
+        color: #bfbfbf;
+        font-size: 13px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    
+    
+    .imgpartt{
+        padding-top: 40px;
+        height: 100%;
+        width: 450px;
+        /* background-color: brown; */
+        overflow: hidden;
+    }
+}
